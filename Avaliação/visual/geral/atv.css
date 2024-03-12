@@ -1,0 +1,220 @@
+header {
+    text-align: center;
+}
+
+#button {
+    border-radius: 50px;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+}
+
+#button:hover {
+    border-style: dotted;
+    border-width: 5px;
+    width: 150px;
+    transition: 1s;
+    border-color: white;
+}
+
+a {
+    color: white;
+}
+
+body {
+    text-align: center;
+    background-color: gainsboro;
+}
+
+#um {
+    display: flex;
+    padding-left: 10%;
+}
+
+#dois {
+    display: flex;
+    padding-left: 20%;
+}
+
+#tres {
+    display: flex;
+    padding-left: 30%;
+}
+
+#quatro {
+    display: flex;
+    padding-left: 40%;
+}
+
+#cinco {
+    display: flex;
+    padding-left: 50%;
+}
+
+#seis {
+    display: flex;
+    padding-left: 60%;
+}
+
+#sete {
+    display: flex;
+    padding-left: 70%;
+}
+
+#red {
+    background-color: red;
+    color: red;
+}
+
+#orange {
+    background-color: orange; 
+    color: orange;  
+}
+
+#yellow {
+    background-color: yellow;
+    color: yellow;
+}
+
+#green {
+    background-color: green;
+    color: green
+}
+
+#blue {
+    background-color: blue;
+    color: blue
+}
+
+#purple {
+    background-color: purple;
+    color: purple
+}
+
+#violet {
+    background-color: violet;
+    color: violet
+}
+
+#cachorro {
+    display: flex;
+    justify-content: center;
+}
+
+#cao {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#caes {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#aa {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#bb {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#cc {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#dd {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#ee {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#ff {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#gg {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#hh {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+#gato {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#ab {
+    width: 400px;
+    height: 300px;
+}
+
+#cd {
+    width: 400px;
+    height: 300px;
+}
+
+#ef {
+    width: 400px;
+    height: 300px;
+}
+
+#gh {
+    width: 400px;
+    height: 300px;
+}
+
+#ij {
+    width: 400px;
+    height: 300px;
+}
+
+#kl {
+    width: 400px;
+    height: 300px;
+}
+
+#mn {
+    width: 400px;
+    height: 300px;
+}
+
+#op {
+    width: 400px;
+    height: 300px;
+}
+
+#qr {
+    width: 400px;
+    height: 300px;
+}
+
+#st {
+    width: 400px;
+    height: 300px;
+}
+
+
